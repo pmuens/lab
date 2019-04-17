@@ -1,0 +1,1 @@
+docker run -it -p 8888:8888 -v "$PWD":/home/jovyan/work --ipc=host ufoym/deepo:all-jupyter-cpu jupyter notebook --ip=0.0.0.0 --no-browser --allow-root --NotebookApp.token= --notebook-dir=/home/jovyan/work
