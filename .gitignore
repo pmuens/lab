@@ -1,4 +1,6 @@
-tmp
+tmp/
+data/
+checkpoints/
 
 # General
 .DS_Store
