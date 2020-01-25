@@ -3,7 +3,7 @@
 docker run -it -p 8888:8888 --rm --name lab-deepo \
   -v "$PWD":/home/jovyan/work \
   --ipc=host \
-  ufoym/deepo:all-jupyter-cpu jupyter notebook \
+  ufoym/deepo:all-py36-cpu jupyter notebook \
   --ip=0.0.0.0 \
   --no-browser \
   --allow-root \
