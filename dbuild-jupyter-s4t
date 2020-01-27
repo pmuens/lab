@@ -1,5 +1,0 @@
-#!/bin/sh
-
-IMAGE_NAME=jupyter-s4t
-
-docker build -f $IMAGE_NAME.dockerfile -t $IMAGE_NAME:latest 0-docker-build-context

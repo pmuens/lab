@@ -2,10 +2,10 @@
 
 IMAGE_NAME=jupyter-s4t
 
-docker run -it -p 8888:8888 --rm --name lab-$IMAGE_NAME \
+docker run -it -p 8888:8888 --rm --name lab-jupyter-s4tf \
   -v "$PWD":/home/jovyan/work \
   --ipc=host \
-  $IMAGE_NAME:latest jupyter notebook \
+  pmuens/jupyter-s4tf:latest jupyter notebook \
   --ip=0.0.0.0 \
   --no-browser \
   --allow-root \
