@@ -1,9 +1,11 @@
 #!/bin/sh
 
-docker run -it -p 8888:8888 --rm --name lab-deepo \
+IMAGE=deepo
+
+docker run -it -p 8888:8888 --rm --name lab-"$IMAGE" \
   -v "$PWD":/home/jovyan/work \
   --ipc=host \
-  ufoym/deepo:all-py36-cpu jupyter notebook \
+  ufoym/"$IMAGE":all-py36-cpu jupyter notebook \
   --ip=0.0.0.0 \
   --no-browser \
   --allow-root \
