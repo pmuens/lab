@@ -1,6 +1,0 @@
-#!/bin/sh
-
-docker run -p 8080:8080 --rm --name lab-zeppelin \
-  -v "$PWD/zeppelin-notebooks":/notebook \
-  -e ZEPPELIN_NOTEBOOK_DIR='/notebook' \
-  apache/zeppelin:0.8.1
