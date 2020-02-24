@@ -6,6 +6,16 @@ Personal lab to play around with algorithms and data.
 
 ## Running it
 
+**NOTE:** You can pass an optional port number as the first CLI argument (i.e. `./jupyter-lab 3000`).
+
+### Jupyter Lab
+
 ```sh
-./run.sh
+./jupyter-lab.sh
+```
+
+### Jupyter Notebook
+
+```sh
+./jupyter-notebook.sh
 ```
