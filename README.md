@@ -30,9 +30,9 @@ From scratch implementations of various algorithms and models in pure Python.
 [naive-bayes-nb]: ./x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
-[linear-regression-nb]: ./x-from-scratch/simple-linear-regression-from-scratch.ipynb
-[linear-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/simple-linear-regression-from-scratch.ipynb
-[linear-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/simple-linear-regression-from-scratch.ipynb
+[linear-regression-nb]: ./x-from-scratch/linear-regression-from-scratch.ipynb
+[linear-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
+[linear-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
 [multiple-regression-nb]: ./x-from-scratch/multiple-regression-from-scratch.ipynb
 [multiple-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/multiple-regression-from-scratch.ipynb
 [multiple-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/multiple-regression-from-scratch.ipynb
