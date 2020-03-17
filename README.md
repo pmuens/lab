@@ -13,7 +13,7 @@ From scratch implementations of various algorithms and models in pure Python.
 | Notebook                                      |               nbviewer               |           Google Colab            |           Blog post           |
 | --------------------------------------------- | :----------------------------------: | :-------------------------------: | :---------------------------: |
 | [Gradient Descent][gradient-descent-nb]       |  [Link][gradient-descent-nbviewer]   |  [Link][gradient-descent-colab]   | [Link][gradient-descent-post] |
-| [k-NN][k-nn-nb]                               |        [Link][k-nn-nbviewer]         |        [Link][k-nn-colab]         |          Coming soon          |
+| [k-NN][k-nn-nb]                               |        [Link][k-nn-nbviewer]         |        [Link][k-nn-colab]         |       [Link][k-nn-post]       |
 | [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |          Coming soon          |
 | [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |          Coming soon          |
 | [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] |          Coming soon          |
@@ -29,6 +29,7 @@ From scratch implementations of various algorithms and models in pure Python.
 [k-nn-nb]: ./x-from-scratch/k-nn-from-scratch.ipynb
 [k-nn-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/k-nn-from-scratch.ipynb
 [k-nn-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/k-nn-from-scratch.ipynb
+[k-nn-post]: https://philippmuens.com/k-nearest-neighbors-from-scratch/
 [naive-bayes-nb]: ./x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
