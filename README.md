@@ -14,7 +14,7 @@ From scratch implementations of various algorithms and models in pure Python.
 | --------------------------------------------- | :----------------------------------: | :-------------------------------: | :---------------------------: |
 | [Gradient Descent][gradient-descent-nb]       |  [Link][gradient-descent-nbviewer]   |  [Link][gradient-descent-colab]   | [Link][gradient-descent-post] |
 | [k-NN][k-nn-nb]                               |        [Link][k-nn-nbviewer]         |        [Link][k-nn-colab]         |       [Link][k-nn-post]       |
-| [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |          Coming soon          |
+| [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |   [Link][naive-bayes-post]    |
 | [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |          Coming soon          |
 | [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] |          Coming soon          |
 | [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] |          Coming soon          |
@@ -33,6 +33,7 @@ From scratch implementations of various algorithms and models in pure Python.
 [naive-bayes-nb]: ./x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
 [naive-bayes-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/naive-bayes-from-scratch.ipynb
+[naive-bayes-post]: https://philippmuens.com/naive-bayes-from-scratch/
 [linear-regression-nb]: ./x-from-scratch/linear-regression-from-scratch.ipynb
 [linear-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
 [linear-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
