@@ -10,17 +10,17 @@ Personal lab to play around with algorithms and data.
 
 From scratch implementations of various algorithms and models in pure Python.
 
-| Notebook                                      |               nbviewer               |           Google Colab            |           Blog post           |
-| --------------------------------------------- | :----------------------------------: | :-------------------------------: | :---------------------------: |
-| [Gradient Descent][gradient-descent-nb]       |  [Link][gradient-descent-nbviewer]   |  [Link][gradient-descent-colab]   | [Link][gradient-descent-post] |
-| [k-NN][k-nn-nb]                               |        [Link][k-nn-nbviewer]         |        [Link][k-nn-colab]         |       [Link][k-nn-post]       |
-| [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |   [Link][naive-bayes-post]    |
-| [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |          Coming soon          |
-| [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] |          Coming soon          |
-| [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] |          Coming soon          |
-| [Decision Trees][decision-trees-nb]           |   [Link][decision-trees-nbviewer]    |   [Link][decision-trees-colab]    |          Coming soon          |
-| [Neural Networks][neural-networks-nb]         |   [Link][neural-networks-nbviewer]   |   [Link][neural-networks-colab]   |          Coming soon          |
-| [k-means Clustering][k-means-clustering-nb]   | [Link][k-means-clustering-nbviewer]  | [Link][k-means-clustering-colab]  |          Coming soon          |
+| Notebook                                      |               nbviewer               |           Google Colab            |            Blog post             |
+| --------------------------------------------- | :----------------------------------: | :-------------------------------: | :------------------------------: |
+| [Gradient Descent][gradient-descent-nb]       |  [Link][gradient-descent-nbviewer]   |  [Link][gradient-descent-colab]   |  [Link][gradient-descent-post]   |
+| [k-NN][k-nn-nb]                               |        [Link][k-nn-nbviewer]         |        [Link][k-nn-colab]         |        [Link][k-nn-post]         |
+| [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |     [Link][naive-bayes-post]     |
+| [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |  [Link][linear-regression-post]  |
+| [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] | [Link][multiple-regression-post] |
+| [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] |           Coming soon            |
+| [Decision Trees][decision-trees-nb]           |   [Link][decision-trees-nbviewer]    |   [Link][decision-trees-colab]    |           Coming soon            |
+| [Neural Networks][neural-networks-nb]         |   [Link][neural-networks-nbviewer]   |   [Link][neural-networks-colab]   |           Coming soon            |
+| [k-means Clustering][k-means-clustering-nb]   | [Link][k-means-clustering-nbviewer]  | [Link][k-means-clustering-colab]  |           Coming soon            |
 
 [gradient-descent-nb]: ./x-from-scratch/gradient-descent-from-scratch.ipynb
 [gradient-descent-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/gradient-descent-from-scratch.ipynb
@@ -37,9 +37,11 @@ From scratch implementations of various algorithms and models in pure Python.
 [linear-regression-nb]: ./x-from-scratch/linear-regression-from-scratch.ipynb
 [linear-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
 [linear-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/linear-regression-from-scratch.ipynb
+[linear-regression-post]: https://philippmuens.com/linear-and-multiple-regression-from-scratch/
 [multiple-regression-nb]: ./x-from-scratch/multiple-regression-from-scratch.ipynb
 [multiple-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/multiple-regression-from-scratch.ipynb
 [multiple-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/multiple-regression-from-scratch.ipynb
+[multiple-regression-post]: https://philippmuens.com/linear-and-multiple-regression-from-scratch/
 [logistic-regression-nb]: ./x-from-scratch/logistic-regression-from-scratch.ipynb
 [logistic-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/logistic-regression-from-scratch.ipynb
 [logistic-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/logistic-regression-from-scratch.ipynb
