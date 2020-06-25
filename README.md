@@ -17,7 +17,7 @@ From scratch implementations of various algorithms and models in pure Python.
 | [Naive Bayes][naive-bayes-nb]                 |     [Link][naive-bayes-nbviewer]     |     [Link][naive-bayes-colab]     |     [Link][naive-bayes-post]     |
 | [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |  [Link][linear-regression-post]  |
 | [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] | [Link][multiple-regression-post] |
-| [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] |           Coming soon            |
+| [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] | [Link][logistic-regression-post] |
 | [Decision Trees][decision-trees-nb]           |   [Link][decision-trees-nbviewer]    |   [Link][decision-trees-colab]    |           Coming soon            |
 | [Neural Networks][neural-networks-nb]         |   [Link][neural-networks-nbviewer]   |   [Link][neural-networks-colab]   |           Coming soon            |
 | [k-means Clustering][k-means-clustering-nb]   | [Link][k-means-clustering-nbviewer]  | [Link][k-means-clustering-colab]  |           Coming soon            |
@@ -45,6 +45,7 @@ From scratch implementations of various algorithms and models in pure Python.
 [logistic-regression-nb]: ./x-from-scratch/logistic-regression-from-scratch.ipynb
 [logistic-regression-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/logistic-regression-from-scratch.ipynb
 [logistic-regression-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/logistic-regression-from-scratch.ipynb
+[logistic-regression-post]: https://philippmuens.com/logistic-regression-from-scratch/
 [decision-trees-nb]: ./x-from-scratch/decision-trees-from-scratch.ipynb
 [decision-trees-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/decision-trees-from-scratch.ipynb
 [decision-trees-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/decision-trees-from-scratch.ipynb
