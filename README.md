@@ -18,7 +18,7 @@ From scratch implementations of various algorithms and models in pure Python.
 | [Linear Regression][linear-regression-nb]     |  [Link][linear-regression-nbviewer]  |  [Link][linear-regression-colab]  |  [Link][linear-regression-post]  |
 | [Multiple Regression][multiple-regression-nb] | [Link][multiple-regression-nbviewer] | [Link][multiple-regression-colab] | [Link][multiple-regression-post] |
 | [Logistic Regression][logistic-regression-nb] | [Link][logistic-regression-nbviewer] | [Link][logistic-regression-colab] | [Link][logistic-regression-post] |
-| [Decision Trees][decision-trees-nb]           |   [Link][decision-trees-nbviewer]    |   [Link][decision-trees-colab]    |           Coming soon            |
+| [Decision Trees][decision-trees-nb]           |   [Link][decision-trees-nbviewer]    |   [Link][decision-trees-colab]    |   [Link][decision-trees-post]    |
 | [Neural Networks][neural-networks-nb]         |   [Link][neural-networks-nbviewer]   |   [Link][neural-networks-colab]   |           Coming soon            |
 | [k-means Clustering][k-means-clustering-nb]   | [Link][k-means-clustering-nbviewer]  | [Link][k-means-clustering-colab]  |           Coming soon            |
 
@@ -49,6 +49,7 @@ From scratch implementations of various algorithms and models in pure Python.
 [decision-trees-nb]: ./x-from-scratch/decision-trees-from-scratch.ipynb
 [decision-trees-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/decision-trees-from-scratch.ipynb
 [decision-trees-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/decision-trees-from-scratch.ipynb
+[decision-trees-post]: https://philippmuens.com/decision-trees-from-scratch/
 [neural-networks-nb]: ./x-from-scratch/neural-networks-from-scratch.ipynb
 [neural-networks-nbviewer]: https://nbviewer.jupyter.org/github/pmuens/lab/blob/master/x-from-scratch/neural-networks-from-scratch.ipynb
 [neural-networks-colab]: https://colab.research.google.com/github/pmuens/lab/blob/master/x-from-scratch/neural-networks-from-scratch.ipynb
